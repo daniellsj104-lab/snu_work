@@ -1,8 +1,7 @@
-#Simple Hompate
+# Simple Hompate
 
-##Subtitle
+## Subtitle
 
-''py
+```python
 import json
 print('abc')
-''
